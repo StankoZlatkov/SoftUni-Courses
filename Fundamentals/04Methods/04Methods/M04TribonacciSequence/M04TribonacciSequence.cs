@@ -6,6 +6,9 @@ namespace M04TribonacciSequence
     {
         static void Main()
         {
+            int num = int.Parse(Console.ReadLine());
+         
+
 
         }
     }
